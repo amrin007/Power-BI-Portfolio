@@ -8,7 +8,10 @@ Analysing by diving deeper into attrition and what factors impact attrition. Thi
 
 # 3. Analysing Customer Churn for a Telecom Company
 
-For subscription-based businesses, reducing customer churn is a top priority. In this Power BI case study, you'll investigate a dataset from an example telecom company called Databel and analyze their churn rates. Analyzing churn doesn’t just mean knowing what the churn rate is: it’s also about figuring out why customers are churning at the rate they are, and how to reduce churn
+For subscription-based businesses, reducing customer churn is a top priority. In this Power BI case study, you'll investigate a dataset from an example telecom company called Databel and analyze their churn rates. Analyzing churn doesn’t just mean knowing what the churn rate is: it’s also about figuring out why customers are churning at the rate they are, and how to reduce churn.
 
 # 4. Supply Chain Analytics in POWER BI
 Developing a quote analysis tool, calculate costs for various production volumes, and integrate internal manufacturing cost data for in-depth analysis. Projecting the advantages of Power BI over traditional spreadsheets, offering a valuable model that can be extended to include additional cost considerations and supply chain aspects. 
+
+# 5. Sales Analysis 
+This report is to carry out a sales and market share analysis, focusing not only on the company's performance internally, reflecting on how well the products sell, but also externally analyzing how well they are doing against competing manufacturers. Thus, business users can make informed decisions and actions on their data.
