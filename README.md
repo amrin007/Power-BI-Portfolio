@@ -1,10 +1,14 @@
 # Power-BI-Portfolio
-# Health Care Analysis with POWER BI
+
+ # 1. Health Care Analysis in POWER BI
 In healthcare, improving efficiency while maintaining high-quality patient care is a top priority. In this Power BI Case study, you’ll explore a real-world dataset to uncover hospital efficiency insights for a fictional consulting company called HealthStat. You’ll analyze attributes impacting the patient length of stay (LOS) and cost and work to identify factors contributing to hospital differences. I have used my DAX skills to create measures and generate insightful visualizations. To finish off, we bring it all together in a sophisticated business dashboard to communicate insights for the HealthStat team. 
 
-# Analysing Customer Churn for a Telecom Company
+# 2. HR Analytics
+Analysing by diving deeper into attrition and what factors impact attrition. This analysis will help the fictional software organization called Atlas Lab determine what action they will need to take to retain more employees and focus on delivering insights on attrition and what factors affect employee retention.
+
+# 3. Analysing Customer Churn for a Telecom Company
 
 For subscription-based businesses, reducing customer churn is a top priority. In this Power BI case study, you'll investigate a dataset from an example telecom company called Databel and analyze their churn rates. Analyzing churn doesn’t just mean knowing what the churn rate is: it’s also about figuring out why customers are churning at the rate they are, and how to reduce churn
 
-# Supply Chain Analytics in POWER BI
+# 4. Supply Chain Analytics in POWER BI
 Developing a quote analysis tool, calculate costs for various production volumes, and integrate internal manufacturing cost data for in-depth analysis. Projecting the advantages of Power BI over traditional spreadsheets, offering a valuable model that can be extended to include additional cost considerations and supply chain aspects. 
